@@ -1,21 +1,12 @@
 # Ames Iowa Statistical Analysis
 
-Pre-processing, exploration (EDA) and statistical analysis of the Ames Iowa Housing Dataset
-
-## Introduction
-
-This notebook was created in fulfilment of course work 1 for the module details listed below:
+Pre-processing, exploration (EDA) and statistical analysis of the Ames Iowa Housing Dataset. This notebook was created in fulfilment of course work 1 for the module details listed below:
 
 - Module Code: CS4S767
-
 - Module Title: Data Mining
-
 - Submission Date: 17th November 2025
-
 - Return Date: 19th January 2026
-
 - Module/Leader: Ieuan Griffiths
-
 - Student Name: Morenikeji Elijah Popoola
 
 # Assessment Description
