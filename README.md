@@ -86,10 +86,10 @@ In addition, answer the following questions:
 
 Features to use in the model (see Dataset section for more information on these features):
 
-- GrLivArea
-- OverallQual
-- GarageCars
-- LotArea
-- Neighborhood
-- HouseStyle
-- CentralAir
+- `GrLivArea`
+- `OverallQual`
+- `GarageCars`
+- `LotArea`
+- `Neighborhood`
+- `HouseStyle`
+- `CentralAir`
